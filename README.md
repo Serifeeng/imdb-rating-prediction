@@ -27,8 +27,3 @@ Projede **sayısal ve kategorik özellikler** kullanılarak regression modelleri
 
 ---
 
-## Kurulum ve Çalıştırma
-1. Projeyi klonlayın:
-
-```bash
-git clone https://github.com/KULLANICI_ADIN/imdb-rating-prediction.git
