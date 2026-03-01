@@ -27,3 +27,7 @@ Projede **sayısal ve kategorik özellikler** kullanılarak regression modelleri
 
 ---
 
+## Sonuçlar
+- Model, test verisi üzerinde iyi bir tahmin performansı gösterdi (R2 ve RMSE ile ölçüldü).  
+- Feature importance analizi ile hangi özelliklerin IMDb puanını daha çok etkilediği belirlendi.  
+- Görselleştirmeler (scatter plot) ile tahmin edilen ve gerçek puanlar karşılaştırıldı.
